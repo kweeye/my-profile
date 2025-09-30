@@ -72,7 +72,9 @@ With 6+ years of experience in backend and full-stack development, I specialize 
 - **Mobile:** Flutter  
 - **Database:** MySQL, MongoDB, DynamoDB  
 - **Cloud & DevOps:** AWS, Serverless (Lambda) Docker, Nginx, Apache, GitHub, Bitbucket  
-- **Security:** Encryption, MFA, OpenSSL, Secure Payment Integrations  
+- **Security:** Encryption, MFA, OpenSSL, Secure Payment Integrations
+- **Methodologies:** Agile (SCRUM, Kanban), Waterfall
+- **Management Tools:** Jira, Trello, ClickUp, Notion
 
 ---
 
