@@ -47,27 +47,31 @@ With 6+ years of experience in backend and full-stack development, I specialize 
 ## 🏆 Key Technical Projects
 
 ### **Banking & Payment Platforms (Japan)**
-- **Chiba Bank** – Merchant & Sales Management (PHP, AWS RDS, Payment Integration)  
-- **Hachi Pay (Shibuya City)** – Cashless Payments, Shop Management (Node.js, AWS Lambda, Cognito, Line Auth)  
-- **MeBuKu Pay** – Digital Wallet & Online Payment (Node.js, PHP, GMO Payment)  
-- **Syddy Payment Gateway** – Plugin-based Payment System  
-- **Yui Mall / Collesho Mall** – E-commerce with merchant & inventory systems (EC-CUBE, AWS, GMO Payment)  
+- **Chiba Bank** – Merchant & Sales Management (PHP, AWS RDS, Payment Integration)  - https://www.chibabank.co.jp/
+- **Hachi Pay (Shibuya City)** – Cashless Payments, Shop Management (Node.js, AWS Lambda, Cognito, Line Auth)  - https://www.hachi-pay.tokyo/
+- **MeBuKu Pay** – Digital Wallet & Online Payment (Node.js, PHP, GMO Payment)  - https://play.google.com/store/apps/details?id=com.myfintech.mebukuapp&hl=ja&gl=US
+- **Syddy Payment Gateway** – Plugin-based Payment System  - https://www.syddy.co.jp/
+- **Yui Mall / Collesho Mall** – E-commerce with merchant & inventory systems (EC-CUBE, AWS, GMO Payment)  - https://www.yui-mall.jp/ - https://www.collesho.jp/
 
 ### **E-commerce & CRM (Myanmar)**
-- **Olivego Mall** – Multi-vendor e-commerce, inventory & delivery (Laravel, Next.js, Flutter, MongoDB)  
-- **MyShre (CRM)** – Digital business card & CRM integration  
-- **BFF Sport** – Football prediction & membership platform (Laravel, Vue.js, Flutter)  
-- **HoHoDiDi** – Deals & coupons platform with mobile app  
+- **Olivego Mall** – Multi-vendor e-commerce, inventory & delivery (Laravel, Next.js, Flutter, MongoDB)  - https://olivego.com/
+- **MyShre (CRM)** – Digital business card & CRM integration  - https://myshre.com/
+- **BFF Sport** – Football prediction & membership platform (Laravel, Vue.js, Flutter) - https://bffsports.com/
+- **Restaurant Jenius** - Restaurant Equipment Selling (Laravel, Next Js, Vue Js) - https://axrestaurantequipment.com/
+- **Inhouse Furniture** - E-commerce, inventory & delivery (Laravel, Next.js, Flutter, MongoDB)  - https://inhousemm.com/
+- **HoHoDiDi** – Deals & coupons platform with mobile app (Laravel, Vue Js, Flutter) - https://play.google.com/store/apps/details?id=com.skylark.hohodidi.user.app
+- **Geveme Event Manage** - System For Management Custom Event ( Cake PHP, Node Js, Ember Js ) - https://www.gevme.com/en/
+- **Flymya Travel** - System For Travel, Flight And Hotel Booking (Laravel, Node Js, Angular Js) - https://flymya.com/
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Backend:** Node.js, PHP (Laravel), TypeScript, NestJS, CakePHP  
+- **Backend:** Node.js, PHP (Laravel), TypeScript, NestJS, CakePHP, Go, Python
 - **Frontend:** React.js, Next.js, Vue.js, AngularJS, Ember.js  
 - **Mobile:** Flutter  
 - **Database:** MySQL, MongoDB, DynamoDB  
-- **Cloud & DevOps:** AWS (RDS, Lambda, Cognito), Docker, Nginx, Apache, GitHub, Bitbucket  
+- **Cloud & DevOps:** AWS, Serverless (Lambda) Docker, Nginx, Apache, GitHub, Bitbucket  
 - **Security:** Encryption, MFA, OpenSSL, Secure Payment Integrations  
 
 ---
