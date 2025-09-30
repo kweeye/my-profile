@@ -70,7 +70,7 @@ With 6+ years of experience in backend and full-stack development, I specialize 
 - **Backend:** Node.js, PHP (Laravel), TypeScript, NestJS, CakePHP, Go, Python
 - **Frontend:** React.js, Next.js, Vue.js, AngularJS, Ember.js  
 - **Mobile:** Flutter  
-- **Database:** MySQL, MongoDB, DynamoDB  
+- **Database:** MySQL, MongoDB, DynamoDB, PostgreSQL
 - **Cloud & DevOps:** AWS, Serverless (Lambda) Docker, Nginx, Apache, GitHub, Bitbucket  
 - **Security:** Encryption, MFA, OpenSSL, Secure Payment Integrations
 - **Methodologies:** Agile (SCRUM, Kanban), Waterfall
